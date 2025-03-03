@@ -1,0 +1,20 @@
+/* Establecer ancho del textarea */
+textarea {
+    width: 200px;  /* Se eliminan columnas y filas en HTML */
+}
+
+/* Márgenes y tipo de fuente para el body */
+body {
+    margin: 20px;
+    font-family: Verdana, sans-serif;
+}
+
+/* Estilos para el input de email */
+input[name="email"] {
+    background-color: #eeeeee;
+}
+
+/* Fuente Tahoma para párrafos y etiquetas */
+p, label {
+    font-family: Tahoma, sans-serif;
+} 
